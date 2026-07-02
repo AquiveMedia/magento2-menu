@@ -1,4 +1,12 @@
 # Magento 2 Menu
+
+> **⚠️ Fork notice — AquiveMedia**
+>
+> This is a fork of [SnowdogApps/magento2-menu](https://github.com/SnowdogApps/magento2-menu).
+> The `feature/translations` branch is based on `develop` with [PR #398](https://github.com/SnowdogApps/magento2-menu/pull/398)
+> (store view node translations) merged in, because that PR is not yet merged upstream.
+> Once PR #398 lands upstream, switch back to the official `snowdog/module-menu` release.
+
 ![Static Badge](https://img.shields.io/badge/compatible-compatible?style=for-the-badge&label=Hyv%C3%A4&labelColor=%230A144B&color=%230A23B9%20)
 [![Packagist](https://img.shields.io/packagist/v/snowdog/module-menu?style=for-the-badge)](https://packagist.org/packages/snowdog/module-menu)
 [![Packagist](https://img.shields.io/packagist/dt/snowdog/module-menu?style=for-the-badge)](https://packagist.org/packages/snowdog/module-menu)
